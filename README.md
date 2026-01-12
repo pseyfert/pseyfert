@@ -1,1 +1,2 @@
 <a rel="me" href="https://chaos.social/@pseyfert">Mastodon</a>
+I'm slowly migrating away from Microsoft to <a href="https://codeberg.org/pseyfert">Codeberg</a>. Any of my projects may get archived or deleted without further warning. Seing MS push LSP only to then respond like <a href="https://github.com/microsoft/vscode-cpptools/issues/2679">this</a> sounds too much like <a href="https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish">"embrace, extend, and exterminate"</a> to me. 🖕
